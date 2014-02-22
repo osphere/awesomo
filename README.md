@@ -1,4 +1,3 @@
 awesomo
 =======
-
-The awesomo testo project :)
+The awesomo testo project :) :)
