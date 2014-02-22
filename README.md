@@ -1,4 +1,4 @@
 awesomo
 =======
 
-The awesomo test project :)
+The awesomo testo project :)
